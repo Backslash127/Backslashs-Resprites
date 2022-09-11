@@ -11,12 +11,17 @@ Items currently in the mod:
 - The Sad Onion
 - The Inner Eye
 - Spoon Bender
+- My Reflection
+- Number One
+- Brother Bobby
+- Skatole
+- Halo of Flies
 
 All forms of feedback and criticism is appreciated! If there's any feedback you want to give me, or any suggestions on things you want to see changed, please tell me!
 
 (More items will be added eventually, and I may go back to previously resprited items and change them further.)</description>
-    <version>1.4</version>
-    <visibility>Private</visibility>
+    <version>1.5</version>
+    <visibility>Public</visibility>
     <tag id="Items"/>
     <tag id="Active Items"/>
     <tag id="Graphics"/>
